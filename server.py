@@ -16,8 +16,6 @@ from mcp.types import (
     Tool,
     TextContent,
     Resource,
-    INVALID_PARAMS,
-    INTERNAL_ERROR,
 )
 
 # Configure logging

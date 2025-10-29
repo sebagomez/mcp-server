@@ -27,8 +27,7 @@ def test_server():
         stdin=subprocess.PIPE,
         stdout=subprocess.PIPE,
         stderr=subprocess.PIPE,
-        text=True,
-        bufsize=1
+        text=True
     )
     
     try:
