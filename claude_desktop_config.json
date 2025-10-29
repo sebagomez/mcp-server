@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "test-server": {
+      "command": "python3",
+      "args": [
+        "/absolute/path/to/mcp-server/server.py"
+      ]
+    }
+  }
+}
